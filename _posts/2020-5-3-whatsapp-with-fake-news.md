@@ -25,5 +25,32 @@ Since WhatsApp solution falls short, a collection of small solutions would be my
 
 WhatsApp has been proven to negatively affect South Asian communities by spreading misinformation and fake news which incites racial violence in countries like Myanmar. Through deep-seated racism combined with the advent of a novel messaging platform-turned social media, misinformation spreads faster than wildfire. Here, we discussed how WhatsApp’s main solution of limiting forwards didn’t effectively address the challenge posed by misinformation and suggested three methods WhatsApp can use to also effectively manage misinformation on their platform.
 
+### References 
+[1] Catholic Hierarchy, "Statistics by Country," [Online]. Available: http://www.catholic-hierarchy.org/country/sc3.html. 
+[2] R. Rosenthal, "What’s the connection between Buddhism and ethnic cleansing in Myanmar?," Lion's Roar, 3 November 2018. [Online]. Available: https://www.lionsroar.com/what-does-buddhism-have-to-do-with-the-ethnic-cleansing-in-myanmar/. 
+[3] G. Mohan, "Rohingyas have faced the worst discrimination in the world: UN Chief," India Today, 3 October 2018. [Online]. Available: https://www.indiatoday.in/world/story/rohingyas-have-faced-the-worst-discrimination-in-the-world-un-chief-1354398-2018-10-03. 
+[4] K. M. Aung, "Myanmar’s Myriad Challenges Don’t Excuse Toxic And Unfounded Racism Against Rohingya," Huffington Post, 21 November 2017. [Online]. Available: https://www.huffpost.com/entry/myanmars-myriad-challenges-dont-excuse-toxic-and_b_5a12f8a4e4b05ec0ae8443de.
+[5] Minority Rights Group International, "Peoples Under Threat 2019: The role of social media in exacerbating violence," 03 June 2019. [Online]. Available: https://minorityrights.org/2019/06/03/peoples-under-threat-2019-the-role-of-social-media-in-exacerbating-violence/. [6] S. Gulati, 10 Dec 2015. [Online]. Available: http://www.saanyagulati.com/2015/12/the-curious-case-of-indias-whatsapp-culture/. 
+[7] BBC, "The country where Facebook posts whipped up hate," BBC, 12 September 2018. [Online]. Available: https://www.bbc.com/news/blogs-trending-45449938. 
+[8] L. Frayer, "Viral WhatsApp Messages Are Triggering Mob Killings In India," NPR, 18 July 2018. [Online]. Available: https://www.npr.org/2018/07/18/629731693/fake-news-turns-deadly-in-india. 
+[9] L. Mirani, "Millions of Facebook users have no idea they’re using the internet," Quartz, 09 February 2015. [Online]. Available: https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/.
+[10] The Washington Post, "On WhatsApp, fake news is fast - and can be fatal," Washington Post/South China Morning Post, 24 July 2019. [Online]. Available: https://www.scmp.com/tech/article/2156552/whatsapp-fake-news-fast-and-can-be-fatal.
+[11] Facebook, "An Independent Assessment of the Human Rights Impact of Facebook in Myanmar," Facebook, 05 November 2018. [Online]. Available: https://about.fb.com/news/2018/11/myanmar-hria/. 
+[12] P. Mozur, "A Genocide Incited on Facebook, With Posts From Myanmar’s Military," New York Times, 15 October 2018. [Online]. Available: https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html. 
+[13] K. Wagner, "WhatsApp will drastically limit forwarding across the globe to stop the spread of fake news, following violence in India and Myanmar," Vox, 19 July 2018. [Online]. Available: https://www.vox.com/2018/7/19/17594156/whatsapp-limit-forwarding-fake-news-violence-india-myanmar. 
+[14] A. Stevenson, "Facebook Admits It Was Used to Incite Violence in Myanmar," The New York Times, 06 November 2018. [Online]. Available: https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html. 
+[15] D. Lu, "WhatsApp restrictions slow the spread of fake news – but don't stop it," The NewScientist, 27 September 2019. [Online]. Available: https://www.newscientist.com/article/2217937-whatsapp-restrictions-slow-the-spread-of-fake-news-but-dont-stop-it/. 
+[16] J. Porter, "WhatsApp launches fact-checking service in India ahead of elections," The Verge, 02 April 2019. [Online]. Available: https://www.theverge.com/2019/4/2/18291880/whatsapp-fact-checking-checkpoint-tipline-misinformation-indian-elections-proto. 
+[17] J. Porter, "WhatsApp partner clarifies India tip line is actually a research project and ‘not a helpline’," The Verge, 04 April 2019. [Online]. Available: https://www.theverge.com/2019/4/4/18295434/whatsapp-checkpoint-tipline-proto-fact-checking-service-research-project. 
+[18] V. Page, "How WhatsApp Makes Money," Investopedia, 04 May 2019. [Online]. Available: https://www.investopedia.com/articles/personal-finance/040915/how-whatsapp-makes-money.asp. 
+[19] A. Sivanandan, "Sri Lanka: racism and the politics of underdevelopment," Race & Class, vol. 26, no. 1, 1984. 
+[20] S. S. RAY, "Ethnic, religious and racial conflicts - Indias point of view," International Journal on Minority and Group, vol. 2, pp. 3-4, 1994. 
+[21] P. N. Delhi, "The Hindu Business Line," 01 July 2018. [Online]. Available: https://www.thehindubusinessline.com/news/variety/india-is-home-to-more-than-19500-mother-tongues/article24305725.ece. 
+[22] World Asia, "Gulf News - Wold Asia," 01 July 2018. [Online]. Available: https://gulfnews.com/world/asia/india/census-more-than-19500-languages-spoken-in-india-as-mother-tongues-1.2244791.
+[23] F. C. MADIGAN, "STRUCTURAL CHANGE AND CULTURE CONFLICTS IN INDIA," Philippine Sociological Review, vol. 6, no. 2, pp. 1-9, 1958. 
+[24] D. A. Lowe, "Fake news, racism and bombs: Fear and loathing in Trump's America," Al Jazeera, 05 October 2018. [Online]. Available: https://www.aljazeera.com/indepth/opinion/fake-news-racism-bombs-fear-loathing-trump-america-181025082812562.html. 
+[25] H. Beech, "‘A New Enemy but the Same Hate’: Can Sri Lanka Heal Its Divisions?," New York Times, 05 may 2019. [Online]. Available: https://www.nytimes.com/2019/05/05/world/asia/sri-lanka-attacks-hate.html. 
+[26] M. Safi, "WhatsApp 'deleting 2m accounts a month' to stop fake news," The Guardian , 06 February 2019. [Online]. Available: https://www.theguardian.com/technology/2019/feb/06/whatsapp-deleting-two-million-accounts-per-month-to-stop-fake-news.
+
 
 
