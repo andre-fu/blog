@@ -33,5 +33,5 @@ On the behavioral side, have a few stories ready to go, be sure to be able to hi
 ## Final Thoughts 
 As you prepare for your interview, remember so many people are in your shoes and they’ve all come through the other side. Try to come across as confident and knowledgeable (which I’m sure you are!). Exercise some more intelligence than I did when applying and going through the process and you will do amazingly. Good luck, you’ll kill it! If you ever see me around, give me a shout! 
 
-__Special thanks to Elisa Ding who edited this post__
+*Special thanks to Elisa Ding who edited this post & provided advice*
 
