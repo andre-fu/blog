@@ -2,14 +2,11 @@
 layout: post
 title: Can Canadians withstand a Market Downturn?
 ---
-
-Can Canadians withstand a market downturn? 
-
 Short Answer: In my limited opinion, No. 
 
 Long answer: No, & here’s why. 
 
-Cheap Credit had enabled Canadians to over-leverage themselves against their homes, which due to COVID-19 will decrease in price causing defaults.
+*Cheap Credit had enabled Canadians to over-leverage themselves against their homes, which due to COVID-19 will decrease in price causing defaults.*
 
 Since 1992, there has been an overall decline in cheap credit [1] and over this time, Canadians have been increasing consumer spending [2]. The link between cheap credit and increased consumer spending is no accident, as credit becomes cheaper so does the ability for Canadians to spend it [3] . The Bank of Canada now estimates that close to 65% of the TOTAL spending in Canada is due to consumer spending, meaning that this spending ends up being a large driver to the Canadian Economy [4]. Prior to January 2020, the average ratio of household spending to disposable income was close to 173% [5] . This increase has been increasing at approximately the same rate as the consumer spending in Canada, tying the increase in consumer spending to the average Canadian being in debt by almost double their disposable income. It’s unequivocally evident that Canadians’ access to cheap credit has led them to get into so much debt. 
 
