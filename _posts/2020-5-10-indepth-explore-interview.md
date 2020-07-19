@@ -4,7 +4,7 @@ title: An in-depth look at the Explore Internship Interview Process
 ---
 
 I know when I was applying for internships in the Summer and Fall of 2019, I was wholly confused about the interviews and the actual intricacies of what goes on, especially during the interview process for a big name company like Microsoft. 
-The Explore internship is an internship aimed at freshmen and sophomores in college. It’s supposed to entail the two main parts of software creation – software engineering and project management, in order to give students exposure to both fields. 
+The Explore internship is an internship aimed at freshmen and sophomores in college. It’s supposed to entail the two main parts of software creation – software engineering and program management, in order to give students exposure to both fields. 
 
 ## A bit about me at the time
 I was wrapping up my internship at Interac, the Canadian version of Venmo & tap technologies combined. While Interac is well known in Canada, the company has less public attention in the United States, which was where I hoped to secure an internship the following summer. That same summer, I was working with an undergraduate research group at the University of Toronto called iGEM, where I was the computational biology lead. I had also just switched my major from Chemical Engineering to Engineering Science. 
