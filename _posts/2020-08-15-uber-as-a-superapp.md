@@ -43,7 +43,8 @@ WeChat’s asian prominence is driven in part by its large user base and it’s 
 
 
 [1] https://www.statista.com/statistics/255778/number-of-active-wechat-messenger-accounts
-#:~:text=In%20the%20first%20quarter%20of%202020%2C%20Tencent%27s%20WeChat,2011%2C%20WeChat%20is%20a%20mobile%20messaging%20app%20
+#:~:text=In%20the%20first%20quarter%20of%202020%2C%20
+Tencent%27s%20WeChat,2011%2C%20WeChat%20is%20a%20mobile%20messaging%20app%20
 
 [2] https://www.techinasia.com/history-of-wechat
 
