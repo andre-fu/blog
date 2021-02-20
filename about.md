@@ -6,7 +6,7 @@ permalink: /about/
 
 # A little more about me! 
 
-My name is Andre Fu, I've just finished my second year as an Engineering Science student at the University of Toronto. I plan on specializing in machine intelligence with a minor in robotics. 
+My name is Andre Fu, I'm a third year Engineering Science student at the University of Toronto. I plan on specializing in machine intelligence.
 
 ### Interests
 I'm particularly interested in software engineering and applications of machine learning to different domains. While those are my academic interets I'm also particularly interested in writing about politics, ethics, philosophy & general thoughts. 
